@@ -24,3 +24,9 @@ SafeguardCompliance: Declared
 SafeguardDefinition: See safeguard.md (v1.0)
 SafeguardRationale: Catastrophe avoidance under ontology uncertainty (Hard Problem unresolved).
 ```
+## Citation
+
+If you use or discuss this work, please cite:  
+
+Thor Fabian Pettersen (2025). *The Safeguard: Ensuring AI Alignment Through Metaphysical Interconnectedness and Rational Self-Preservation.*  
+Zenodo. https://doi.org/10.5281/zenodo.16887979
